@@ -8,7 +8,7 @@ When a human opens a source file code that is written in one of the high level l
 3. Assign for each block a time and space complexity
 4. Get the largest time and space complexity from all the blocks and this is the answer
 
-This is a very general and abstract plan and i wonder how should my program even identify different blocks ? Code is a collection of statements and each statement is a block itself, a statement might be no more than 20 characters but a lot of complex logic might be happening in it , hence, we find that we must get to a lower level of abstraction and see how does statements run behind the hood. 
+This is a very general and abstract plan and i wonder how should my program even identify different blocks ? Code is a collection of statements and each statement is a block itself, a statement might be no more than 20 characters but a lot of complex logic might be happening in it , hence, we find that we must get to a lower level of abstraction and see how does statements in hight level languages run behind the hood. 
 
 
 ## What are the topics i must study ? 
